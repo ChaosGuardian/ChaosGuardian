@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @ChaosGuardian
+<!DOCTYPE hmtl>
+<html>
+<body>
+  <p> - 👋 Hi, I’m @ChaosGuardian
 - 👀 I’m interested in math, physics, business, industry, technology and even more
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: Well, you won't ;)
-
-<!DOCTYPE hmtl>
-<hmtl>
-<body>
+    - 📫 How to reach me: Well, you won't ;) </p>
   <img src=chaos.jpeg />
-</body>
-</hmtl>
 <!---
 ChaosGuardian/ChaosGuardian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  </body>
+</html>
